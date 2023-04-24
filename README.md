@@ -36,10 +36,10 @@ Download or clone the project from GitHub.
 
 Navigate to the project directory.
 
-Run the text_generation.py file using the following command:
+Run the PoetAI2_0.py file using the following command:
 
 ```python
-python text_generation.py
+python poetai2_0.py
 ```
 The program will train the LSTM network on the input data and generate new text.
 
