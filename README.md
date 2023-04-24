@@ -27,21 +27,8 @@ You also need to download the nltk data. Open a Python shell and run the followi
 
 ```python
 import nltk
-nltk.download('punkt')
+nltk.download('gutenberg')
 ```
-## Usage
-To use this project, follow these steps:
-
-Download or clone the project from GitHub.
-
-Navigate to the project directory.
-
-Run the PoetAI2_0.py file using the following command:
-
-```python
-python poetai2_0.py
-```
-The program will train the LSTM network on the input data and generate new text.
 
 
 ## Contributing
