@@ -1,5 +1,5 @@
 ## Project Title
-Poet AI: Text Generation using LSTM Neural Networks
+**Poet AI**: Text Generation using LSTM Neural Networks
 
 ## Project Description
 This project is aimed at generating new text using LSTM neural networks. LSTM networks are a type of recurrent neural network (RNN) that are capable of learning long-term dependencies. They are often used in natural language processing (NLP) tasks such as language translation, speech recognition, and text generation.
